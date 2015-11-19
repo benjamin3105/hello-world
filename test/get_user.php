@@ -49,4 +49,4 @@ mysqli_close($dbc);
 
 ?>
 
-<a href="add_user.php">Subscribe another user dit is een test die ik hier neer heb gezet.</a>
+<a href="add_user.php">Subscribe another user</a>
