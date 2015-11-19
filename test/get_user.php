@@ -49,4 +49,4 @@ mysqli_close($dbc);
 
 ?>
 
-<a href="add_user.php">Subscribe another user</a>
+<a href="add_user.php">Subscribe another user met development branch</a>
